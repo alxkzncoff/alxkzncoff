@@ -1,10 +1,16 @@
 ### Hi 👋, I'm Alexandr
 
-* Java Developer (1,5 years expirience).
-* Machine and Deep learning enthusiast.
+* :computer: Java Developer (1,5 years expirience)
+* :open_book: Machine and Deep learning enthusiast
+* :handshake: Open for job offer
 
-### Technologies
+### Technologies 🔭
 [![My Skills](https://skillicons.dev/icons?i=java,idea,maven,spring,hibernate,postgres,bootstrap,html,css,linux,git,docker,py,kubernetes&theme=light&perline=7)](https://skillicons.dev)
+
+### Contacts 📫
+
+ * Telegram: https://t.me/alexkzncoff
+ * Email: alx.kzncoff@gmail.com
 
 ### My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 

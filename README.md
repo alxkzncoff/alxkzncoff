@@ -11,7 +11,7 @@
 
 - [URL shortener service](https://github.com/alxkzncoff/job4j_url_shortcut);
 - [Chat (backend)](https://github.com/alxkzncoff/job4j_chat);
-- [Forum web-service](https://github.com/alxkzncoff/job4j_forum) - Simple forum (back + front);
+- [Forum web-service](https://github.com/alxkzncoff/job4j_forum);
 - [Cars trade web-service](https://github.com/alxkzncoff/job4j_cars);
 - [TODO-list web-service](https://github.com/alxkzncoff/job4j_todo);
 - [Cinema tickets web-service](https://github.com/alxkzncoff/job4j_cinema).

@@ -4,10 +4,10 @@
 * :open_book: Machine and Deep learning enthusiast;
 * :handshake: Open for job offer.
 
-### Technologies 🔭
+### 🔭 Technologies:
 [![My Skills](https://skillicons.dev/icons?i=java,idea,maven,spring,hibernate,postgres,bootstrap,html,css,linux,git,docker,py,kubernetes&theme=light&perline=7)](https://skillicons.dev)
 
-### Projects
+### :hammer_and_wrench: Projects:
 
 - [URL shortener service](https://github.com/alxkzncoff/job4j_url_shortcut);
 - [Chat (backend)](https://github.com/alxkzncoff/job4j_chat);
@@ -16,13 +16,13 @@
 - [TODO-list web-service](https://github.com/alxkzncoff/job4j_todo);
 - [Cinema tickets web-service](https://github.com/alxkzncoff/job4j_cinema).
 
-### Contacts 📫 <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+### 📫 Contacts:  
 
 
  * Telegram: https://t.me/alexkzncoff
  * Email: alx.kzncoff@gmail.com
 
-### My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+### :bar_chart: My GitHub Stats:
 
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alxkzncoff" alt="Gift's LangStat" />

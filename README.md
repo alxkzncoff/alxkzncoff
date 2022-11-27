@@ -16,7 +16,8 @@
 - [TODO-list web-service](https://github.com/alxkzncoff/job4j_todo);
 - [Cinema tickets web-service](https://github.com/alxkzncoff/job4j_cinema).
 
-### Contacts 📫
+### Contacts 📫 <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+
 
  * Telegram: https://t.me/alexkzncoff
  * Email: alx.kzncoff@gmail.com

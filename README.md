@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Alexandr
 
-* :computer: Java Developer (1,5 years expirience);
+* :computer: Java Developer (3 years expirience);
 * :open_book: Machine and Deep learning enthusiast;
 * :handshake: Open for job offer.
 
